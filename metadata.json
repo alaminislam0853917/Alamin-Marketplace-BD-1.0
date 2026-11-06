@@ -1,0 +1,8 @@
+{
+  "name": "Remix আল-আমিন মার্কেটপ্লেস",
+  "description": "আল-আমিন মার্কেটপ্লেস - আধুনিক বাংলা অনলাইন কেনাকাটার বিশ্বস্ত মাধ্যম। দ্রুত ডেলিভারি ও সেরা পণ্যের সমাহার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
